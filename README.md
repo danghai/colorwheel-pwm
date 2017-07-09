@@ -49,7 +49,9 @@ The Seven Segment display on the Nexys4 DDR should be used as follows:
 4. Digit [2] should be left blank. 5. Digits [1:0] should display the duty cycle detected for the BLUE RGB led. 
  
 # Design
+
 Project Design: [Project Design](https://github.com/danghai/colorwheel-pwm/blob/master/Design_Report.pdf) 
+
 Link video for demo: [Video demo](https://www.youtube.com/watch?v=7sWxsoR2xG0&t=5s)
 
 
